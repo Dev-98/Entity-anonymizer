@@ -120,12 +120,12 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.anonymize
 .venv
-env/
+anonymize/
 venv/
 ENV/
-env.bak/
+anonymize.bak/
 venv.bak/
 
 # Spyder project settings
